@@ -1,4 +1,5 @@
 ## Welcome to K2VR Team's GitHub org
+### [Click here to install Amethyst](https://github.com/KinectToVR/Amethyst-Installer-Releases/releases/latest/download/Amethyst-Installer.exe)
 ![image](https://user-images.githubusercontent.com/8508676/192115110-16c3997a-e7fa-4c03-aaa3-679d84b9f323.png)
 ---
 K2VR Team is a bunch of nerds that want to give legs to everyone in VR. We don't need to listen to Meta!
@@ -12,5 +13,5 @@ We want to encourage and enable people to push through with setups like these. A
 We are developing an application called [Amethyst](https://github.com/KinectToVR/Amethyst-Releases). It's a fully modular system to [allow anyone to create their own device plugins](https://github.com/KinectToVR/K2TrackingDevice-Samples) for body tracking. And have them work immediatly in SteamVR alongside any other plugins.
 
 A few extra projects are also being worked on besides Amethyst. Most of them there to support the main app.
-### Amethyst Installer
-A really fancy and overengineered (like anything at K2VR isn't?) WPF swiss army knife of an installer which takes care of updates, dependencies, has basically it's own package manager, and it's own archive format! Check it out, it slaps.
+- **Amethyst Installer** --- A really fancy and overengineered (like anything at K2VR isn't?) WPF swiss army knife of an installer which takes care of updates, dependencies, has basically it's own package manager, and it's own archive format! Check it out, it slaps.
+- **K2VR Docs** --- Multi-lingual docs that are made to correlate directly to errors and pages in the app. The information there is also meant to be useful if you're not even using Amethyst.
